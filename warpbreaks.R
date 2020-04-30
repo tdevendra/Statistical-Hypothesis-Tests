@@ -48,6 +48,3 @@ summary(mod1_sim)
 
 dic1 = dic.samples(mod1, n.iter=1e3)
 
-
-# Two factor anova
-
